@@ -1,0 +1,6 @@
+{
+  "name": "Smart Duty Check",
+  "description": "A smart university final project companion with a functional camera and GPS-validated duty check-in simulator and complete PHP/MySQL source code files.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
